@@ -1,0 +1,27 @@
+<html>
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=gb2312">
+<title>页面没有找到</title>
+<style type="text/css">
+<!--
+body {
+	background-image: url(/notfind/error_bg.gif);
+}
+-->
+</style>
+<meta http-equiv="refresh" content="3;URL=http://www.sdufe.edu.cn">
+</head>
+
+<body>
+<table width="100%" height="80%" border="0" cellpadding="0" cellspacing="0">
+  <tr>
+    <td align="center" valign="middle"><table width="611" height="246" border="0" align="center" cellpadding="0" cellspacing="0">
+      <tr>
+        <td background="/notfind/error.gif"><div align="center" style="font-size:15px; font-weight:bold ">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;页面没有找到，3秒钟后将会自动转到首页!<br>
+          &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;点击直接进入<a href="http://www.sdufe.edu.cn/">http://www.sdufe.edu.cn</a></div></td>
+      </tr>
+    </table></td>
+  </tr>
+</table>
+</body>
+</html>
